@@ -1,15 +1,14 @@
 ---
 date: '2019-12-12'
-title: 'Face Recognition in Python'
-github: 'https://github.com/chandrikadeb7/Face-Recognition-in-Python'
+title: 'Portfolio Version1'
+github: 'https://github.com/sparsh-007/folio'
 external: ''
 tech:
-  - Python
-  - OpenCV
-  - Pillow
-  - NumPy
+  - React
+  - Gsap
+  - JS
 company: ''
 showInProjects: true
 ---
 
-A real time face recognition system developed in Python using Pillow, OpenCV and NumPy libraries
+personal portfolio built using React Gsap and sass

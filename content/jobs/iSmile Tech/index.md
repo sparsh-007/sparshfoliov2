@@ -1,11 +1,9 @@
 ---
-date: '2020-07-15'
-title: 'Technical Writer'
-company: 'iSmile Tech'
-range: 'July 2020 - August 2020'
-url: 'https://www.ismiletechnologies.com/'
+date: '2020-05-30'
+title: 'Virtual Internship'
+company: 'Cisco'
+range: 'June 2021-November 2021'
 ---
 
-- Drafted all the website content and promotional templates on HubSpot for the startup.
-- Reviewed the tech blogs and helped the Sales & Marketing Team.
-- View [CERTIFICATE](https://drive.google.com/file/d/1xc4SHoXSFWmLQfwBeYq7WwB5EjXsqMV9/view?usp=sharing) and [PERFORMANCE REVIEW REPORT](https://drive.google.com/file/d/1FVNB7SLHLwWB_QOSZFxIiSdy8O6Xbj2w/view?usp=sharing)
+- Learned about cyber security basics
+- developed a packet tracing network for KIET college as model

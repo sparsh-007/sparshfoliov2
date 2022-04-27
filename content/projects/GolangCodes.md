@@ -1,7 +1,7 @@
 ---
 date: '2022-02-01'
-title: 'Learn Beginner Golang'
-github: 'https://github.com/chandrikadeb7/learning-easy-golang'
+title: 'IOS Bootcamp'
+github: 'https://github.com/sparsh-007/IOSBootcamp'
 external: ''
 tech:
   - Go
@@ -10,4 +10,4 @@ company: ''
 showInProjects: true
 ---
 
-Collection of small code gists along my Golang learning journey
+Collection of small code and Projects and for IOS Learning

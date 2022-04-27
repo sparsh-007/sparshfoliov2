@@ -1,16 +1,13 @@
 ---
 date: '2020-09-16'
-title: '100DaysOfCode'
-github: 'https://github.com/chandrikadeb7/100DaysOfCode'
+title: 'Coding Log'
+github: 'https://github.com/sparsh-007/competetive_practice'
 external: ''
 tech:
-  - Kotlin/Java
-  - Spring Microservices
-  - Javascript
-  - CSS
-  - Python
+ - Java
+ - C++
 company: ''
 showInProjects: true
 ---
 
-Repository dedicated to my #100DaysOfCode journey
+Repository dedicated to my Coding journey
